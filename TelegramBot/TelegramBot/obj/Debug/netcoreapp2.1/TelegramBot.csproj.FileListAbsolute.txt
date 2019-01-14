@@ -1,0 +1,14 @@
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\bin\Debug\netcoreapp2.1\TelegramBot.deps.json
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\bin\Debug\netcoreapp2.1\TelegramBot.runtimeconfig.json
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\bin\Debug\netcoreapp2.1\TelegramBot.runtimeconfig.dev.json
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\bin\Debug\netcoreapp2.1\TelegramBot.dll
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.1\TelegramBot.csprojAssemblyReference.cache
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.1\TelegramBot.csproj.CoreCompileInputs.cache
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.1\TelegramBot.RazorAssemblyInfo.cache
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.1\TelegramBot.RazorAssemblyInfo.cs
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.1\TelegramBot.AssemblyInfoInputs.cache
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.1\TelegramBot.AssemblyInfo.cs
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.1\TelegramBot.RazorTargetAssemblyInfo.cache
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\bin\Debug\netcoreapp2.1\TelegramBot.pdb
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.1\TelegramBot.dll
+D:\Documents\KPI 3.0\MAPZ\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.1\TelegramBot.pdb
