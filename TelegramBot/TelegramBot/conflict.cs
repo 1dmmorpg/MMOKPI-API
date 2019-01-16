@@ -3,9 +3,10 @@ namespace TelegramBot
 {
     class Hello 
     {
-        static void NotMain() 
+
+        public void add()
         {
-            Console.WriteLine("Hello World!");
+            int a = 2;
 
             Console.ReadKey();
         }
