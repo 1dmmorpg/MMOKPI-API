@@ -6,8 +6,8 @@ namespace TelegramBot
         static void Main() 
         {
             string message = Console.ReadLine();
-            System.Console.WriteLine(message);
-
+            message = "hello";
+            
             Console.ReadKey();
         }
     }
