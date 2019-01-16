@@ -17,9 +17,7 @@ namespace TelegramBot.Models
         public static async Task<TelegramBotClient> GetBotClientAsync()
         {
             if (botClient != null)
-            {
                 return botClient;
-            }
 
             commandsList = new List<Command>();
             commandsList.Add(new StartCommand());
